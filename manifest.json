@@ -19,7 +19,6 @@
             "thirdParty/moment.min.js",
             "thirdParty/zh-tw.min.js",
             "inject.js",
-            "submit.js"
       ]
     }
   ]
