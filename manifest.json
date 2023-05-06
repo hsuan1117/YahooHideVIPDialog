@@ -18,7 +18,7 @@
             "thirdParty/jquery-3.6.3.min.js",
             "thirdParty/moment.min.js",
             "thirdParty/zh-tw.min.js",
-            "inject.js",
+            "inject.js"
       ]
     }
   ]

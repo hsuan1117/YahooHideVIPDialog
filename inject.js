@@ -1,1 +1,1 @@
-$(".lightbox").hide()
+$(".lightbox button").click()
