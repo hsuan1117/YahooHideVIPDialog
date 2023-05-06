@@ -12,7 +12,7 @@
   "content_scripts": [
     {
       "matches": [
-          "https://tw.stock.yahoo.com/",
+          "https://tw.stock.yahoo.com/"
       ],
         "js": [
             "thirdParty/jquery-3.6.3.min.js",
